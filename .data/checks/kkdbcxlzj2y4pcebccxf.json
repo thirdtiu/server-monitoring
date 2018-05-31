@@ -1,1 +1,1 @@
-{"id":"kkdbcxlzj2y4pcebccxf","userPhone":"9223981176","protocol":"http","url":"google.com","method":"get","successCodes":[200,201],"timeoutSeconds":3}
+{"id":"kkdbcxlzj2y4pcebccxf","userPhone":"9223981176","protocol":"http","url":"yahoo.com","method":"put","successCodes":[200,201,403],"timeoutSeconds":2}
